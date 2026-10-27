@@ -1,0 +1,64 @@
+# secrets and server-local configuration
+server.properties
+eula.txt
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.jks
+
+# compiled server binary
+/fabric-jre-server_26.3.jar
+/fabric-server-*.jar
+
+# runtime data
+/world/
+/world_nether/
+/world_the_end/
+/logs/
+/crash-reports/
+/cache/
+/libraries/
+/versions/
+/backups/
+
+# logs and crash reports
+logs/
+crash-reports/
+
+# local backups/server-side archives
+*.tar
+*.tar.gz
+*.zip
+/mods/
+
+# client-side whitelisting
+
+!/usermods/
+!/usermods/*.jar
+!/resourcepacks/
+
+# temporary files
+*.tar
+*.tar.gz
+*.tmp
+*.bak
+*~
+
+# os files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# client fix
+
+!/usermods/
+!/usermods/**
+
+!/resourcepacks/
+!/resourcepacks/**
+
+!/extras/resourcepacks/
+!/extras/resourcepacks/**

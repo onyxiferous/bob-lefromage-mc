@@ -1,0 +1,31 @@
+👋 hi, thanks for downloading the bob lefromage server™.
+
+here's what you need to do.
+
+/////////////////////////////////////////////////////
+
+
+
+== HOSTERS ==
+
+📖 read the GitHub repository's instructions.
+
+a .jar should be generated once you run the commands.
+
+
+
+== PLAYERS ==
+
+import the mods from the mods folder into your mod manager's mods folder (curseforge, modrinth, prism, TLauncher, etc.) and you should be all set.
+
+⚠️ all mods need to be present or the server will boot you out.
+
+additionally, you can also download the resourcepacks and unpack the folders you want.
+
+✅ you should be good to go from there!
+
+
+
+/////////////////////////////////////////////////////
+
+⛏️ have fun!
