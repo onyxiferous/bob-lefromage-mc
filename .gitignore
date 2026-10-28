@@ -15,35 +15,27 @@ banned*.json
 userdata*
 ops.json
 
-# just in case
-[BetterHud]
-
-# compiled server binary
-/fabric-jre-server_26.3.jar
-/fabric-server-*.jar
+# compiled server binary and runtimes
+fabric-jre-server_26.3.jar
+fabric-server-*.jar
 
 # runtime data
-/world/
-/world_nether/
-/world_the_end/
-/logs/
-/crash-reports/
-/cache/
-/libraries/
-/versions/
-/backups/
-.fabric
-# NOTE: fabric is a particularly important one to exclude
-
-# optimization configs
-spark
-
-# BetterHud leftover scraps (images, text, etc.)
-config/betterhud/assets
-
-# logs and crash reports
+world/
+world_nether/
+world_the_end/
 logs/
 crash-reports/
+cache/
+libraries/
+versions/
+backups/
+.fabric/
+
+# optimization configs
+spark/
+
+# BetterHud leftover scraps (images, text, etc.)
+config/betterhud/assets/
 
 # local backups/server-side archives
 *.tar
@@ -51,12 +43,9 @@ crash-reports/
 *.zip
 
 # temporary files/caching
-temp
-tmp
-cache
+temp/
+tmp/
 *.cache
-*.tar
-*.tar.gz
 *.tmp
 *.bak
 *~
