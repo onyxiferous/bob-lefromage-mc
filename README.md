@@ -196,6 +196,8 @@ git --version
 
 download the main branch from github using any of these two methods. you do not need to use both, only one.
 
+at any point, you can refer to the example branch if you ever get confused and need a fresh copy of all the files that are included with the server.
+
 option A: download the ZIP file directly via `curl`.
 
 ```bash
