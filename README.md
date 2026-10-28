@@ -1,4 +1,4 @@
-![server](https://img.shields.io/badge/host_your_own-vanilla%2B-%23614538?style=flat-square&logo=serverless&logoColor=green&labelColor=%23292929)  ![Static Badge](https://img.shields.io/badge/no_judgement!-fork%20your%20own-%23614538?style=flat-square&logo=pipecat&logoColor=white&labelColor=%23292929)  ![git](https://img.shields.io/badge/v1.06-26.3-%23614538?style=flat-square&logo=git&logoColor=orange&labelColor=%23292929)
+![server](https://img.shields.io/badge/host_your_own-vanilla%2B-%23614538?style=flat-square&logo=serverless&logoColor=green&labelColor=%23292929)  ![Static Badge](https://img.shields.io/badge/no_judgement!-fork%20your%20own-%23614538?style=flat-square&logo=pipecat&logoColor=white&labelColor=%23292929)  ![git](https://img.shields.io/badge/v1.07-26.3-%23614538?style=flat-square&logo=git&logoColor=orange&labelColor=%23292929)
 
 
 
