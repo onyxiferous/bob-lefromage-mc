@@ -463,17 +463,12 @@ referring to the mods and resource packs; in order of precedence, and how import
 
 
 
-| | priority |
-
-| :--- | :---: |
-
-| 🟪|  **required**  |
-
-| 🟧| highly recommended |
-
-| 🟨 | recommended |
-
-| 🟩 | if you want |
+| priority | description          |
+|:--------:|----------------------|
+| 🟪       | **required**         |
+| 🟧       | highly recommended   |
+| 🟨       | recommended          |
+| 🟩       | if you want          |
 
 
 
