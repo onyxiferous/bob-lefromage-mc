@@ -54,6 +54,7 @@ cache
 *.tmp
 *.bak
 *~
+fabricloader.log
 .log
 
 # os files
