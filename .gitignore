@@ -8,6 +8,16 @@ eula.txt
 *.p12
 *.jks
 
+# player information and cache
+whitelist.json
+usercache.json
+banned*.json
+userdata*
+ops.json
+
+# just in case
+[BetterHud]
+
 # compiled server binary
 /fabric-jre-server_26.3.jar
 /fabric-server-*.jar
@@ -22,6 +32,14 @@ eula.txt
 /libraries/
 /versions/
 /backups/
+.fabric
+# NOTE: fabric is a particularly important one to exclude
+
+# optimization configs
+spark
+
+# BetterHud leftover scraps (images, text, etc.)
+config/betterhud/assets
 
 # logs and crash reports
 logs/
@@ -31,15 +49,12 @@ crash-reports/
 *.tar
 *.tar.gz
 *.zip
-/mods/
 
-# client-side whitelisting
-
-!/usermods/
-!/usermods/*.jar
-!/resourcepacks/
-
-# temporary files
+# temporary files/caching
+temp
+tmp
+cache
+*.cache
 *.tar
 *.tar.gz
 *.tmp
@@ -51,14 +66,3 @@ crash-reports/
 .idea/
 .DS_Store
 Thumbs.db
-
-# client fix
-
-!/usermods/
-!/usermods/**
-
-!/resourcepacks/
-!/resourcepacks/**
-
-!/extras/resourcepacks/
-!/extras/resourcepacks/**
