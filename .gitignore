@@ -54,6 +54,7 @@ cache
 *.tmp
 *.bak
 *~
+.log
 
 # os files
 .vscode/
