@@ -37,11 +37,6 @@ spark/
 # BetterHud leftover scraps (images, text, etc.)
 config/betterhud/assets/
 
-# local backups/server-side archives
-*.tar
-*.tar.gz
-*.zip
-
 # temporary files/caching
 temp/
 tmp/
