@@ -40,7 +40,7 @@ spark
 
 # BetterHud leftover scraps (images, text, etc.)
 config/betterhud/assets
-config*
+config/
 
 # logs and crash reports
 logs/

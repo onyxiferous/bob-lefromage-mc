@@ -1,0 +1,38 @@
+[
+  {
+    "user": {
+      "type": "other",
+      "name": "Server"
+    },
+    "time": 1793144318728,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/SImeUTmMF5"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Server"
+    },
+    "time": 1793143659706,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/iuIArBtlH8"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Server"
+    },
+    "time": 1793143457770,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/DA6tXAzLAX"
+    }
+  }
+]

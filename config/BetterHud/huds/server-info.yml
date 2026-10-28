@@ -1,0 +1,7 @@
+server_info_hud:
+  layouts:
+    1:
+      name: server_info
+      x: 0
+      y: 0
+
